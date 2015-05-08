@@ -70,6 +70,8 @@ c::set('languages', array(
 
 ## Credits
 
-Dutch language file by [Wietse Neven](https://gist.github.com/wietseneven/0e9c497e3819ebf06876)
+Dutch language file by [Wietse Neven](http://wietseneven.com "Wietse Neven - UI designer")
+
+German language file by [Dennis Frank](http://dennisfrank.net "Dennis Frank - Web Design and ExpressionEngine Development")
 
 Spanish language file by [Diego Porcel](http://diegoporcel.com "Photographe Nature morte Paris - Diego Porcel")
