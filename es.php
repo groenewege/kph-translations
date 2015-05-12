@@ -9,5 +9,5 @@ l::set('contact_us', 'Contacto');
 l::set('view', 'Consultar');
 l::set('download', 'Descargar');
 l::set('back', 'Volver');
-l::set('projects', 'Proyectos');
+l::set('projects', 'PROYECTOS');
 l::set('name', 'Nombre');

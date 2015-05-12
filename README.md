@@ -75,3 +75,5 @@ Dutch language file by [Wietse Neven](http://wietseneven.com "Wietse Neven - UI 
 German language file by [Dennis Frank](http://dennisfrank.net "Dennis Frank - Web Design and ExpressionEngine Development")
 
 Spanish language file by [Diego Porcel](http://diegoporcel.com "Photographe Nature morte Paris - Diego Porcel")
+
+Swedish language file by [Neil McGillivray](http://www.mcgee.se)
